@@ -1,0 +1,500 @@
+
+.header-text{
+  text-align: right;
+  margin-bottom: 40px;
+ padding-right: 30px;
+
+}
+.hr-v{
+  padding-right: 10px;
+  text-align: right;
+  border-right: 4px solid  rgb(58, 173, 230);;
+  display: inline-block;
+  height: 50px;
+}
+.hr-v h3{
+  font-family:  'Cairo', sans-serif;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+img{
+  max-width: 100%;
+}
+hr{
+ width: 60px;
+ height: 3px;
+ background-color: rgb(58, 173, 230);
+ border-style: none;
+ margin-bottom: 40px;
+}
+/*Main page + header +footer*/
+.navbar-brand img{
+    height: 60px;
+}
+.navbar-toggler{
+    border: none;
+}
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(110, 193, 235, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E") !important;
+  }
+ button.navbar-toggler:focus{
+   outline: none;
+ }
+ .slogin{
+ margin-top: 20px;
+ padding-bottom: 30px;
+ }
+
+.slogn-left{
+background-image: url(/ipda3/imgs/header-side.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  padding-bottom: 40px;
+}
+.slogin h2{
+  padding-top:100px;
+  padding-right: 20px;
+  text-align: right;
+  font-family:  'Cairo', sans-serif;
+
+}
+.about-co{
+  text-align: center;
+  margin-top: 60px;
+}
+.about-co img{
+  width: 100%;
+}
+.about-co h3{
+    padding-bottom: 5px;
+    display: inline;
+    font-family:  'Cairo', sans-serif;
+}
+.about-co h5{
+  font-family:  'Cairo', sans-serif;
+  margin-top: 10%;
+  text-align: right;
+  padding-right:40px;
+  line-height: 2;
+}
+.services{
+  background-image: url(/ipda3/imgs/we-offer.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 60px;
+  height: 500px; 
+}
+.img1-s{
+  max-width: 150px;
+  margin: 0 auto;
+}
+.owl-nav{
+font-size: 30px;
+  text-align: center;
+  color: black;
+  margin-top: 30px;
+}
+.crd-service{
+border-radius: 25px;
+}
+.service-con{
+ 
+  width: 250px;
+  margin: 0 auto;
+  margin-top: 70px;
+}
+.our-work{
+  background-image: url(/ipda3/imgs/bg30-Ar1web.gif);
+  padding-top: 30px;
+}
+.card-works{
+  margin: 0 auto;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+.card-img-top
+{
+  border-radius: 20px;
+}
+.our-work h6{
+  font-family:  'Cairo', sans-serif;
+  text-align: center;
+}
+
+.our-work-footer{
+text-align: center;
+}
+.our-work button{
+  background-color: rgb(35, 49, 66);
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 200px;
+  height: 40px;
+  border-radius: 20px ;
+  color: white;
+  font-family:  'Cairo', sans-serif;
+ 
+}
+.our-work button:focus{
+  outline: none;
+}
+.work-col{
+  padding-bottom: 20px;
+}
+.crd-st{
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+.crd-section{
+text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.crd1-st{
+  text-align: center;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+.crd-st button{
+  width: 90px;
+  background-color: rgb(14%, 19%, 26%);
+  color: white;
+  font-family:  'Cairo', sans-serif;
+  border-radius: 20px ;
+  margin-left: 0;
+  margin-right: 20px;
+}
+.crd-st button:focus{
+  outline: none;
+}
+.btn-read{
+ margin-bottom: 20px;
+text-align: right;
+
+}
+.customer-proud{
+  padding: 0em;
+  background-image: url(/ipda3/imgs/our-client-bg.jpg);
+  background-size:cover;
+  height: 350px;
+  background-position: bottom;
+
+}
+.customer-carousel{
+ margin:0 auto;
+}
+.customer-carsoul-img{ 
+  width: 150px;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+.owl-nav button:focus{
+  outline: none;
+}
+.footer-boy{
+height: 250px;
+margin-top: 45px;
+}
+.footer-bg-st{
+  background-image: url(/ipda3/imgs/footer.jpg);
+ background-size: cover;
+ background-position: bottom;
+ text-align:center;
+ height: 100%;
+}
+.footer-right{
+  text-align:center;
+}
+.footer-left{
+  text-align: center;
+  margin-top: 90px;
+}
+.footer-left span{
+  padding-right: 100px;
+ font-size: 12;
+  font-family:  'Cairo', sans-serif;
+  color: white;
+  line-height:40px;
+}
+.footer-left img{
+  width: 200px;
+}
+footer a{
+  color: white;
+  font-size: 20px;
+  margin-left: 10px;
+  line-height: 40px;
+}
+
+/*our work inner page*/
+.pagination-num{     /*paggination div */
+  padding-top: 20px;
+   margin:0 auto;
+  justify-content: center;
+  padding-bottom: 20px;
+ }
+ .pagination-num a{
+   text-align: center;
+   margin: auto;
+ }
+ .pagination-num li{
+   padding: 0;
+   margin: 0em;
+   border-width: 1px;
+   background-color: white;
+ }
+ 
+ /* project-details inner page*/
+.project-details{
+  background-image: url(/ipda3/imgs/details-bg.png);
+  height: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 40px;
+  padding-right: 40px;
+  line-height: 30px;
+  text-align: center;
+  font-family:  'Cairo', sans-serif;
+  color: white;
+  margin-bottom: 30px;
+
+}
+.project-preview-header{
+  background-image: url(/ipda3/imgs/main.png);
+  height: 300px;
+  margin: 0 auto;
+  background-size: contain;
+  background-repeat: no-repeat;
+ margin-bottom: 40px;
+  background-position: center;
+}
+
+/*slick cener carsoul*/
+slider img{
+  height: 100%;
+}
+.slider {
+    width: 100%;
+}
+
+.slick-slide {
+  margin: 0px 20px;
+}
+
+.slick-slide img {
+  width: 100%;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: black;
+}
+.slick-slide {
+  transition: all ease-in-out .3s;
+  opacity: .2;
+}
+.slick-active {
+  opacity: .5;
+}
+.slick-current {
+  opacity: 1;
+}
+.slider-contain{
+  margin-top: 60px;
+  padding-bottom: 60px;
+}
+:focus{
+  outline: none;
+}
+/*articls inner page*/
+.articles{
+background-image: url(/ipda3/imgs/articles.jpg);
+background-size: contain;
+background-repeat: no-repeat;
+padding-top: 20px;
+}
+/*windows7 inner page*/
+.win7-bg{
+  
+}
+.win7-card{
+width: 60%;
+margin: 0 auto;
+margin-top: 60px;
+border-radius: 20px;
+box-shadow: 2px;
+}
+.win7-bg{
+  background-image: url(/ipda3/imgs/bg30-Ar1web.gif);
+margin-top: 0;
+text-align: right;
+padding-top: 40px;
+padding-bottom: 40px;
+line-height: 30px;
+text-align: right;
+font-family:  'Cairo', sans-serif;
+}
+.win7-bg p{
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 30px;
+}
+/*  card      carsoul*/
+.card-carousel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.card-carousel .my-card {
+  width: 12rem;
+  position: relative;
+  z-index: 1;
+  -webkit-transform: scale(0.6) translateY(-2rem);
+  transform: scale(0.6) translateY(-2rem);
+  opacity: 0;
+  cursor: pointer;
+  pointer-events: none;
+  transition: 1s;
+}
+.card-carousel .my-card:after {
+  content: '';
+  position: absolute;
+  height: 2px;
+  width: 100%;
+  border-radius: 100%;
+  bottom: -5rem;
+  -webkit-filter: blur(4px);
+  filter: blur(4px);
+}
+.card-carousel .my-card:nth-child(0):before {
+  content: '0';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  font-size: 3rem;
+  font-weight: 300;
+  color: #fff;
+}
+.card-carousel .my-card:nth-child(1):before {
+  content: '1';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  font-size: 3rem;
+  font-weight: 300;
+  color: #fff;
+}
+.card-carousel .my-card:nth-child(2):before {
+  content: '2';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  font-size: 3rem;
+  font-weight: 300;
+  color: #fff;
+}
+.card-carousel .my-card:nth-child(3):before {
+  content: '3';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  font-size: 3rem;
+  font-weight: 300;
+  color: #fff;
+}
+.card-carousel .my-card:nth-child(4):before {
+  content: '4';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  font-size: 3rem;
+  font-weight: 300;
+  color: #fff;
+}
+.card-carousel .my-card:nth-child(5):before {
+  content: '5';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  font-size: 3rem;
+  font-weight: 300;
+  color: #fff;
+}
+.card-carousel .my-card:nth-child(6):before {
+  content: '6';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  font-size: 3rem;
+  font-weight: 300;
+  color: #fff;
+}
+.card-carousel .my-card:nth-child(7):before {
+  content: '7';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  font-size: 3rem;
+  font-weight: 300;
+  color: #fff;
+}
+.card-carousel .my-card:nth-child(8):before {
+  content: '8';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  font-size: 3rem;
+  font-weight: 300;
+  color: #fff;
+}
+.card-carousel .my-card:nth-child(9):before {
+  content: '9';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  font-size: 3rem;
+  font-weight: 300;
+  color: #fff;
+}
+.card-carousel .my-card.active {
+  z-index: 3;
+  -webkit-transform: scale(1) translateY(0) translateX(0);
+  transform: scale(1) translateY(0) translateX(0);
+  opacity: 1;
+  pointer-events: auto;
+  transition: 1s;
+}
+.card-carousel .my-card.prev, .card-carousel .my-card.next {
+  z-index: 2;
+  -webkit-transform: scale(0.8) translateY(-1rem) translateX(0);
+  transform: scale(0.8) translateY(-1rem) translateX(0);
+  opacity: 0.6;
+  pointer-events: auto;
+  transition: 1s;
+}
+.pagination li{
+  border-style: solid;
+  color:whitesmoke;
+}

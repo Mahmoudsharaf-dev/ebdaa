@@ -1,0 +1,58 @@
+/* home page english*/
+.right-reduis-div {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+ 
+  }
+  .patient-data{
+      text-align: left;
+  }
+  @media only screen and (min-width: 600px)
+{
+    .co {
+        padding-left: 70px;
+        text-align: left;
+        padding-right: 0;
+    }
+}
+.call-us-sec{
+ 
+    background-image: url(/imgs/call-ltr.jpg);
+}
+  .about-bank{ 
+    text-align: left;
+    background-image: url(/imgs/about2-ltr.png);
+  }
+  .heart-rate {
+    right: 4px;
+    left: auto;
+}
+
+.list-unstyled{
+    padding-left: 5px!important;
+}
+.right-td {
+text-align: left;   
+}
+.list-group-item-contacts {
+    text-align: left;
+}
+.card-text{
+    text-align: left;
+    
+}
+.card-title{
+    text-align: left;
+    
+}
+.items{
+    text-align: left;
+}
+.articl-title{
+    direction: ltr;
+}
+.heart-div{
+    float: right;
+}
